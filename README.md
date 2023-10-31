@@ -46,8 +46,8 @@ Sebagai | Saya ingin bisa| Sehingga |Prioritas
 ---|---|---|---
 Pengguna | Memesan Destinasi | Bisa memesan destinasi yang diinginkan| ⭐⭐⭐⭐⭐
 Pengguna | Memesan Tiket | Bisa memesan berbagai tiket| ⭐⭐⭐⭐⭐
-Pengguna | Membuat Akun Aplikasi | Bisa mengetahui | ⭐⭐⭐⭐⭐
-Pengguna | Melihat cart | Bisa mengetahui produk yang dimasukkan ke cart| ⭐⭐⭐⭐⭐
+Pengguna | Membuat Akun Aplikasi | Bisa mengetahui pilihan pemesanan| ⭐⭐⭐⭐⭐
+Pengguna | Melihat Foto Destinasi | Bisa mengetahui destinasi yang dituju| ⭐⭐⭐⭐⭐
 
 
 ## 3. Struktur Data

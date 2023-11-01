@@ -70,7 +70,7 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 
-![Prototype}(/DesignAwal.png)
+![Prototype](/DesignAwal.png)
 
 ## 7. Demonstrasi Video
 
